@@ -1,5 +1,7 @@
 
 <h1 align="center">
+ <img alt="FashionBot" src="https://github.com/eliziebluiz/FashionBot/blob/main/fashionbot/produtos.jpg" width="50%"
+/>
     <br>
     FashionBot
 </h1>
