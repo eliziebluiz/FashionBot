@@ -97,7 +97,7 @@ class InstagramBot:
 #https://web.telegram.org/
 
 fashionBot = InstagramBot(
-    "elizieb.pereira", "ebeye2313", "", ['Notas']
+    "user", "password", "", ['Notas']
 )  # Entre com o usuário e senha aqui
 
 condiction=int(input("Digite (1)-Para digitar sua mensagem (2)-Para o sistema logar no instagram e gerar automatica: "))
